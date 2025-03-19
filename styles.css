@@ -21,3 +21,7 @@ div {
     background-color: white;
     border: solid black 1px;
 }
+
+a {
+    color:blueviolet;
+}
