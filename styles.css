@@ -6,6 +6,8 @@
 body {
   background-color: #e8dbd3;
   font-family: 'Playpen Sans', cursive;
+  background-image: url(img/background.jpg);
+  background-attachment: fixed;
 }
 
 .meat {
@@ -24,6 +26,7 @@ body {
     border: #75474a 5px solid;
     display: block;
     margin: 0 auto;
+    max-width: 100%;
 }
 
 
