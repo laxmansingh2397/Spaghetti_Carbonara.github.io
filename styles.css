@@ -10,19 +10,36 @@ body {
 }
 
 #ingredients {
+    background-color: #f3eeea;
+    padding: 5px 15px;
+    border-radius: 10px;
+
 }
 
 #intro img {
+    border: #75474a 5px solid;
 }
 
-header,
-footer,
-main,
-div {
-    background-color: white;
-    border: solid black 1px;
-}
 
 a {
-    color:#75474a;
+    color:#aa7d7a;
+}
+
+header, main, footer {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+main {
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 10px;
 }
